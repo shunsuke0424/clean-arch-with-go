@@ -1,4 +1,4 @@
-module clearn-arch-with-go
+module clean-arch-with-go
 
 go 1.19
 

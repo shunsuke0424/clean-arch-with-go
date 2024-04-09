@@ -1,7 +1,7 @@
 package infrastructure
 
 import (
-	"clearn-arch-with-go/api/interfaces/controllers"
+	"clean-arch-with-go/api/interfaces/controllers"
 
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"

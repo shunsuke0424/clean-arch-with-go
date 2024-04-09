@@ -3,9 +3,9 @@ package controllers
 import (
 	"strconv"
 
-	"clearn-arch-with-go/api/domain"
-	"clearn-arch-with-go/api/interfaces/database"
-	"clearn-arch-with-go/api/usecase"
+	"clean-arch-with-go/api/domain"
+	"clean-arch-with-go/api/interfaces/database"
+	"clean-arch-with-go/api/usecase"
 
 	"github.com/labstack/echo"
 )

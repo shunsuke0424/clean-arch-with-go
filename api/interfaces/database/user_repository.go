@@ -1,7 +1,7 @@
 package database
 
 import (
-	"clearn-arch-with-go/api/domain"
+	"clean-arch-with-go/api/domain"
 )
 
 type UserRepository struct {

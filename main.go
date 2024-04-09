@@ -1,6 +1,6 @@
 package main
 
-import "clearn-arch-with-go/api/infrastructure"
+import "clean-arch-with-go/api/infrastructure"
 
 func main() {
 	infrastructure.Init()

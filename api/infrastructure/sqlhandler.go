@@ -1,12 +1,12 @@
 package infrastructure
 
 import (
-	"clearn-arch-with-go/api/domain"
+	"clean-arch-with-go/api/domain"
 
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
 
-	"clearn-arch-with-go/api/interfaces/database"
+	"clean-arch-with-go/api/interfaces/database"
 )
 
 type SqlHandler struct {

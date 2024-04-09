@@ -1,6 +1,6 @@
 package usecase
 
-import "clearn-arch-with-go/api/domain"
+import "clean-arch-with-go/api/domain"
 
 type UserRepository interface {
 	FindById(id int) (domain.User, error)
